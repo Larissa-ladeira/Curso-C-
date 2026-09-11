@@ -1,0 +1,14 @@
+C:\C#\Aulas\ExercicioMedia\bin\Debug\net10.0\ExercicioMedia.exe
+C:\C#\Aulas\ExercicioMedia\bin\Debug\net10.0\ExercicioMedia.deps.json
+C:\C#\Aulas\ExercicioMedia\bin\Debug\net10.0\ExercicioMedia.runtimeconfig.json
+C:\C#\Aulas\ExercicioMedia\bin\Debug\net10.0\ExercicioMedia.dll
+C:\C#\Aulas\ExercicioMedia\bin\Debug\net10.0\ExercicioMedia.pdb
+C:\C#\Aulas\ExercicioMedia\obj\Debug\net10.0\ExercicioMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Aulas\ExercicioMedia\obj\Debug\net10.0\ExercicioMedia.AssemblyInfoInputs.cache
+C:\C#\Aulas\ExercicioMedia\obj\Debug\net10.0\ExercicioMedia.AssemblyInfo.cs
+C:\C#\Aulas\ExercicioMedia\obj\Debug\net10.0\ExercicioMedia.csproj.CoreCompileInputs.cache
+C:\C#\Aulas\ExercicioMedia\obj\Debug\net10.0\ExercicioMedia.dll
+C:\C#\Aulas\ExercicioMedia\obj\Debug\net10.0\refint\ExercicioMedia.dll
+C:\C#\Aulas\ExercicioMedia\obj\Debug\net10.0\ExercicioMedia.pdb
+C:\C#\Aulas\ExercicioMedia\obj\Debug\net10.0\ExercicioMedia.genruntimeconfig.cache
+C:\C#\Aulas\ExercicioMedia\obj\Debug\net10.0\ref\ExercicioMedia.dll
