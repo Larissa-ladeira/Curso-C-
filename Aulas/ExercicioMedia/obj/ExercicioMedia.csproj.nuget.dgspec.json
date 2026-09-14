@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\C#\\Aulas\\ExercicioMedia\\ExercicioMedia.csproj": {}
+    "C:\\C#\\Aulas\\ExercicioMedia\\ExercicioMedia.csproj": {}
   },
   "projects": {
-    "c:\\C#\\Aulas\\ExercicioMedia\\ExercicioMedia.csproj": {
+    "C:\\C#\\Aulas\\ExercicioMedia\\ExercicioMedia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\C#\\Aulas\\ExercicioMedia\\ExercicioMedia.csproj",
+        "projectUniqueName": "C:\\C#\\Aulas\\ExercicioMedia\\ExercicioMedia.csproj",
         "projectName": "ExercicioMedia",
-        "projectPath": "c:\\C#\\Aulas\\ExercicioMedia\\ExercicioMedia.csproj",
+        "projectPath": "C:\\C#\\Aulas\\ExercicioMedia\\ExercicioMedia.csproj",
         "packagesPath": "C:\\Users\\laris\\.nuget\\packages\\",
-        "outputPath": "c:\\C#\\Aulas\\ExercicioMedia\\obj\\",
+        "outputPath": "C:\\C#\\Aulas\\ExercicioMedia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -12,3 +12,4 @@ C:\C#\Aulas\ExercicioMedia\obj\Debug\net10.0\refint\ExercicioMedia.dll
 C:\C#\Aulas\ExercicioMedia\obj\Debug\net10.0\ExercicioMedia.pdb
 C:\C#\Aulas\ExercicioMedia\obj\Debug\net10.0\ExercicioMedia.genruntimeconfig.cache
 C:\C#\Aulas\ExercicioMedia\obj\Debug\net10.0\ref\ExercicioMedia.dll
+C:\C#\Aulas\ExercicioMedia\obj\Debug\net10.0\ExercicioMedia.sourcelink.json
