@@ -1,0 +1,15 @@
+C:\C#\Aulas\Aula22\bin\Debug\net10.0\Aula22.exe
+C:\C#\Aulas\Aula22\bin\Debug\net10.0\Aula22.deps.json
+C:\C#\Aulas\Aula22\bin\Debug\net10.0\Aula22.runtimeconfig.json
+C:\C#\Aulas\Aula22\bin\Debug\net10.0\Aula22.dll
+C:\C#\Aulas\Aula22\bin\Debug\net10.0\Aula22.pdb
+C:\C#\Aulas\Aula22\obj\Debug\net10.0\Aula22.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Aulas\Aula22\obj\Debug\net10.0\Aula22.AssemblyInfoInputs.cache
+C:\C#\Aulas\Aula22\obj\Debug\net10.0\Aula22.AssemblyInfo.cs
+C:\C#\Aulas\Aula22\obj\Debug\net10.0\Aula22.csproj.CoreCompileInputs.cache
+C:\C#\Aulas\Aula22\obj\Debug\net10.0\Aula22.sourcelink.json
+C:\C#\Aulas\Aula22\obj\Debug\net10.0\Aula22.dll
+C:\C#\Aulas\Aula22\obj\Debug\net10.0\refint\Aula22.dll
+C:\C#\Aulas\Aula22\obj\Debug\net10.0\Aula22.pdb
+C:\C#\Aulas\Aula22\obj\Debug\net10.0\Aula22.genruntimeconfig.cache
+C:\C#\Aulas\Aula22\obj\Debug\net10.0\ref\Aula22.dll

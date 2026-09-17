@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\C#\\Aulas\\Aula18\\Aula18.csproj": {}
+    "C:\\C#\\Aulas\\Aula18\\Aula18.csproj": {}
   },
   "projects": {
-    "c:\\C#\\Aulas\\Aula18\\Aula18.csproj": {
+    "C:\\C#\\Aulas\\Aula18\\Aula18.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\C#\\Aulas\\Aula18\\Aula18.csproj",
+        "projectUniqueName": "C:\\C#\\Aulas\\Aula18\\Aula18.csproj",
         "projectName": "Aula18",
-        "projectPath": "c:\\C#\\Aulas\\Aula18\\Aula18.csproj",
+        "projectPath": "C:\\C#\\Aulas\\Aula18\\Aula18.csproj",
         "packagesPath": "C:\\Users\\laris\\.nuget\\packages\\",
-        "outputPath": "c:\\C#\\Aulas\\Aula18\\obj\\",
+        "outputPath": "C:\\C#\\Aulas\\Aula18\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
