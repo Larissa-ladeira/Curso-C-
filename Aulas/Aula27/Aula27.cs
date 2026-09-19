@@ -7,11 +7,11 @@ class Aula27{
         
         // 3. Verifica se o usuário digitou alguma coisa
         if (!string.IsNullOrEmpty(entrada)) {
-            // Separa os números pelos espaços e converte cada um para inteiro
+        //StringSplitOptions.RemoveEmptyEntries para ignorar espaços extras ou duplos 
             string[] partes = entrada.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);            
             int[] numeros = Array.ConvertAll(partes, int.Parse);
 
-            // 4. Chama a função passando o array criado com os dados digitados
+            //Chama a função passando o array criado com os dados digitados
             soma(numeros);
         } else {
             Console.WriteLine("Nenhum valor foi digitado.");
@@ -32,7 +32,7 @@ class Aula27{
 
             }
 
-            string valoresConcatenados = string.Join(", ",n);
+            string valoresConcatenados = string.Join(" + ",n);
       
 
             Console.WriteLine("a Soma de {0} = {1}", valoresConcatenados,res);
